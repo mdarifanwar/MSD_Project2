@@ -10,7 +10,7 @@ import RetailerSignUp from "./components/RetailerSignUp";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/MSD_Project2">
       <Header />
       <Routes>
         {/* Home page with cards */}
