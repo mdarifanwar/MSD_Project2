@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MSD_Project2/static/css/main.fd2e7fd2.css",
+    "main.js": "/MSD_Project2/static/js/main.5130fba5.js",
+    "index.html": "/MSD_Project2/index.html",
+    "main.fd2e7fd2.css.map": "/MSD_Project2/static/css/main.fd2e7fd2.css.map",
+    "main.5130fba5.js.map": "/MSD_Project2/static/js/main.5130fba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2e7fd2.css",
+    "static/js/main.5130fba5.js"
+  ]
+}
